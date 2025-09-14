@@ -1,0 +1,6 @@
+{
+  "appId": "id.chuenlay.belajar",
+  "appName": "Chuenlay Belajar",
+  "webDir": "frontend/dist",
+  "bundledWebRuntime": false
+}
